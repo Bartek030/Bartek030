@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋, my name is Bartek
+I am from Poland. I have recently started my adventure with programming and I really enjoy learning new languages and frameworks. My main skills are **Java** with **Spring** framework.
 
-<!--
-**Bartek030/Bartek030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 👀 I’m interested in backend languages and frameworks
+- 🔭 I’m currently working on web app where you can learn the Japanese alphabet  
+- 🌱 I’m currently learning **AngularJS** 
+- 📫 How to reach me: bartlomiejswies@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bartek030&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bartek030&layout=compact&hide=pascal)](https://github.com/anuraghazra/github-readme-stats)
