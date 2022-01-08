@@ -1,4 +1,6 @@
 ### Hi there 👋, my name is Bartek
+![Banner](https://github.com/Bartek030/Bartek030/blob/main/pexels-faik-akmd-1025469.jpg?raw=true)
+
 I am from Poland. I have recently started my adventure with programming and I really enjoy learning new languages and frameworks. My main skills are **Java** with **Spring** framework.
 
 
