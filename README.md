@@ -7,12 +7,7 @@ I am from Poland. I have recently started my adventure with programming and I re
 - 🌱 I’m currently learning **AngularJS** 
 - 📫 How to reach me: bartlomiejswies@gmail.com
 
-
-
-
-
-
-
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bartłomiej-święs/)&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://bartlomiej-swies.pl/)  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bartek030&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
