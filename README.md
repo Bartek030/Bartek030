@@ -13,4 +13,4 @@ I am from Poland. I have recently started my adventure with programming and I re
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bartek030&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bartek030&layout=compact&hide=pascal)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bartek030&layout=compact&hide=pascal&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
