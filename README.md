@@ -6,7 +6,7 @@ I am from Poland. I have recently started my adventure with programming and I re
 
 - 👀 I’m interested in backend languages and frameworks
 - 🔭 I’m currently working on web app where you can learn the Japanese alphabet  
-- 🌱 I’m currently learning **AngularJS** 
+- 🌱 I’m currently learning **Spring framework + Angular** 
 - 📫 How to reach me: bartlomiejswies@gmail.com
 
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bartłomiej-święs/)&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://bartlomiej-swies.pl/)  
