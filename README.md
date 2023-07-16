@@ -4,9 +4,9 @@
 I am from Poland. I have recently started my adventure with programming and I really enjoy learning new languages and frameworks. My main skills are **Java** with **Spring** framework.
 
 
-- 👀 I’m interested in backend languages and frameworks
-- 🔭 I’m currently working on web app where you can learn the Japanese alphabet  
-- 🌱 I’m currently learning **Spring framework + Angular** 
+- 👀 I’m interested in backend languages and related frameworks and tools
+- 🔭 I’m currently working on web app where you can sell and order foods  
+- 🌱 I’m currently learning **Spring framework** 
 - 📫 How to reach me: bartlomiejswies@gmail.com
 
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bartłomiej-święs/)
