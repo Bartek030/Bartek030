@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Bartek
 ![Banner](https://github.com/Bartek030/Bartek030/blob/main/pexels-faik-akmd-102546.jpg?raw=true)
 
-I am from Poland. I have recently started my adventure with programming and I really enjoy learning new languages and frameworks. My main skills are **Java** with **Spring** framework.
+I am a former mechanical designer who decided to change his career path. I graduated with Master Degree in Mechanical Engineering at AGH. Currently I’m working as a Servicenow developer. I’m interested in backend technologies - my favorite is Java. I’m looking for challenges and opportunities to improve my skills in Java and learn other technologies.
 
 
 - 👀 I’m interested in backend languages and related frameworks and tools
